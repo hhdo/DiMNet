@@ -33,7 +33,7 @@ python main.py -d ICEWS18 --history_len 10 --num_head 4 --num_ly 3 --topk 50 --d
 ```
 
 
-### Change the hyperparameters
+### Change the Hyperparameters
 To get the optimal result reported in the paper, change the hyperparameters and other setting according to the ***Implementation Details*** section in the [paper](https://arxiv.org/pdf/2505.14020). 
 
 ## Citation
